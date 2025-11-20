@@ -47,7 +47,7 @@ a.   KVL:
 
 
 b.  KCL:
- ![alt text](<WhatsApp Image 2025-11-19 at 12.26.28 PM-1.jpeg>)
+ ![alt text](<WhatsApp Image 2025-11-19 at 12.26.28 PM.jpeg>)
  ![alt text](<WhatsApp Image 2025-11-19 at 3.16.17 PM.jpeg>)
 
 
