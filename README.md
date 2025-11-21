@@ -42,12 +42,14 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 a.   KVL:
- ![alt text](<Screenshot 2025-11-13 224649.png>)
+ ![alt text](<WhatsApp Image 2025-11-19 at 3.47.52 PM.jpeg>)
+ ![alt text](<WhatsApp Image 2025-11-19 at 3.47.53 PM.jpeg>)
  ![alt text](<WhatsApp Image 2025-11-19 at 3.16.18 PM (1).jpeg>)
 
 
 b.  KCL:
- ![alt text](<WhatsApp Image 2025-11-19 at 12.26.28 PM.jpeg>)
+ ![alt text](<WhatsApp Image 2025-11-19 at 3.47.54 PM.jpeg>)
+ ![alt text](<WhatsApp Image 2025-11-19 at 3.47.54 PM (1).jpeg>)
  ![alt text](<WhatsApp Image 2025-11-19 at 3.16.17 PM.jpeg>)
 
 
